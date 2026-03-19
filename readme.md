@@ -57,14 +57,11 @@ Note: This script will verify table existence before insertion.
 python analytical_bot.py
 ```
 
-### Features:
+**Features:**
 
 Top 5 Students: Find leaders by average grade.
-
 Group Analytics: Average grades per subject for specific groups.
-
 Teacher/Student tracking: Lists courses and performance metrics.
-
 Dynamic Selection: Instead of typing long names, you select entities (students, teachers, etc.) by their list number.
 
 3. CRUD Manager (crud_bot.py)
